@@ -1,0 +1,3 @@
+# OOsuDiscordBot
+
+Basic Osu Bot.
