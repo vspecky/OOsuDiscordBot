@@ -1,0 +1,32 @@
+{
+  "prof": {
+    "name": "prof",
+    "usage": "```o.prof <ProfileName(optional)>```",
+    "desc": "Displays the specified user's Osu! profile."
+  },
+  "setosuch": {
+    "name": "setosuch",
+    "usage": "```o.setosuch <#Channel/ChannelID>```",
+    "desc": "Sets the osu channel."
+  },
+  "profset": {
+    "name": "profset",
+    "usage": "```o.profset <ProfileName>```",
+    "desc": "Sets the Osu! profile of the user."
+  },
+  "top": {
+    "name": "top",
+    "usage": "```o.top <UserName(optional)>```",
+    "desc": "Gets the top 5 scores of the specified user."
+  },
+  "recent": {
+    "name": "recent",
+    "usage": "```o.recent <UserName>```",
+    "desc": "Gets the most recent score of the user."
+  },
+  "help": {
+    "name": "help",
+    "usage": "```o.help <CommandName>```",
+    "desc": "Shows information regarding the specified command."
+  }
+}
